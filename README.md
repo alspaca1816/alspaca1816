@@ -1,11 +1,12 @@
 
 Hi, name's Santiago
-Systems Engineering student focused on back-end development and interactive web experiences.
+Systems Engineering student focused on back-end development, database management and software development.
 
 ## Tech Stack
 - Java
 - SQL
 - Python
+- MySQL
 - JavaScript
 - HTML/CSS
 - Git
