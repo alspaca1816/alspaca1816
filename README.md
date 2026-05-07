@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**alspaca1816/alspaca1816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, name's Santiago
+Systems Engineering student focused on back-end development and interactive web experiences.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java
+- SQL
+- Python
+- JavaScript
+- HTML/CSS
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Virtual Store Management System
+- Interactive Music Landing Page
+- Portfolio Website
+
+## Contact
+- https://www.linkedin.com/in/santiago-undefined-233778406
+- ssanchezp1816@gmail.com
